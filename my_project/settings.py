@@ -28,7 +28,7 @@ DEBUG = False
 ALLOWED_HOSTS = ['8000-navyakn24-djangoproject-tyqhke5sokm.ws.codeinstitute-ide.net', '.herokuapp.com']
 
 INTERNAL_IPS = [
-    '127.0.0.1',
+    '192.168.254.254',
     'localhost',
 ]
 
